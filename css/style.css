@@ -66,8 +66,8 @@ h2 {
 }
 h2:after {
 	display: block;
-	height: 2vh;
-	width: 100vw;
+	height: 1vh;
+	width: 100%;
 	content: " ";
 	background-color: #ff471a;
 	margin: 2rem auto;
