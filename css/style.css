@@ -66,8 +66,8 @@ h2 {
 }
 h2:after {
 	display: block;
-	height: 0.2rem;
-	width: 40rem;
+	height: 2vh;
+	width: 100vw;
 	content: " ";
 	background-color: #ff471a;
 	margin: 2rem auto;
@@ -455,6 +455,7 @@ COLUMN OF 3
 
 
 @media(min-width:300px) and (max-width: 675px)  {
+	
 
 .row{
 		flex-direction: column;
